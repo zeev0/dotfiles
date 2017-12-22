@@ -1,0 +1,9 @@
+HookyQR.beautify
+akamud.vscode-theme-onedark
+cometeer.spacemacs
+eg2.tslint
+huizhou.githd
+mrmlnc.vscode-pugbeautify
+ms-python.python
+msjsdiag.debugger-for-chrome
+vscodevim.vim
