@@ -2,6 +2,7 @@ HookyQR.beautify
 akamud.vscode-theme-onedark
 cometeer.spacemacs
 eg2.tslint
+gerane.Theme-Solarized-dark
 huizhou.githd
 mrmlnc.vscode-pugbeautify
 ms-python.python

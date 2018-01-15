@@ -1,7 +1,0 @@
-{
-    "vim.disableAnnoyingNeovimMessage": true,
-    "telemetry.enableCrashReporter": false,
-    "telemetry.enableTelemetry": false,
-    "workbench.colorTheme": "Atom One Dark",
-    "editor.formatOnSave": true
-}
